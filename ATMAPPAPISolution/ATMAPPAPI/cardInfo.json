@@ -1,0 +1,72 @@
+[
+  {
+    "CardNumber": "5050455596359624",
+    "Pin": "4576",
+    "Balance": "1000",
+    "Email": "venkatsp2002@gmail.com",
+    "AccountNumber": "ACC1001"
+  },
+  {
+    "CardNumber": "0572896537986555",
+    "Pin": "1133",
+    "Balance": "800",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1002"
+  },
+  {
+    "CardNumber": "2051383757179597",
+    "Pin": "4187",
+    "Balance": "1800",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1003"
+  },
+  {
+    "CardNumber": "0091224134711569",
+    "Pin": "5156",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1004"
+  },
+  {
+    "CardNumber": "5502428715366246",
+    "Pin": "1929",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1005"
+  },
+  {
+    "CardNumber": "1706867219465793",
+    "Pin": "9610",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1006"
+  },
+  {
+    "CardNumber": "9290404599988700",
+    "Pin": "9649",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1007"
+  },
+  {
+    "CardNumber": "3501657362576162",
+    "Pin": "9599",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1008"
+  },
+  {
+    "CardNumber": "0597850280028587",
+    "Pin": "5487",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1009"
+  },
+  {
+    "CardNumber": "8956645225353563",
+    "Pin": "2564",
+    "Balance": "1000",
+    "Email": "anupkumarmridha.net@gmail.com",
+    "AccountNumber": "ACC1010"
+  }
+]
